@@ -10,3 +10,9 @@ Kelly Yu
 Lindsay Tober
 """
 
+def integer_division(a,b):
+    quotient = a / b
+    remainder = a - quotient * b
+    print a, '=', quotient, '*', b, '+', remainder
+    return quotient, remainder
+integer_division(36,5)
