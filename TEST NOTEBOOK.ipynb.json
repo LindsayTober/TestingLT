@@ -10,6 +10,35 @@
    "source": [
     "\"\"\"This notebook is to test sharing functionality within jupyter.\"\"\""
    ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 1,
+   "metadata": {
+    "collapsed": false
+   },
+   "outputs": [
+    {
+     "name": "stdout",
+     "output_type": "stream",
+     "text": [
+      "Hello world.\n"
+     ]
+    }
+   ],
+   "source": [
+    "x = 'Hello world.'\n",
+    "print x\n"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "metadata": {
+    "collapsed": true
+   },
+   "outputs": [],
+   "source": []
   }
  ],
  "metadata": {
